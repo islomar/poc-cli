@@ -5,9 +5,13 @@ Playground for experimenting with building CLI tools
 - Tynibird
   - https://pypi.org/project/tinybird-cli
   - https://docs.tinybird.co/cli.html
+  - Python
   - Features:
     - TBD
-
+- [AWS](https://docs.aws.amazon.com/cli/latest/)
+- [Google Cloud](https://cloud.google.com/sdk/gcloud)
+- [GitHub CLI](https://github.com/cli/cli)
+  - Go
 - Anonymized CLI
   - TBD
 
