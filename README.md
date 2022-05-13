@@ -10,3 +10,17 @@ Playground for experimenting with building CLI tools
 
 - Anonymized CLI
   - TBD
+
+
+## Ideas to implement (just for leaarning)
+- Distribute as 
+  - Python package
+  - Go binary
+- GitHub stats
+- Twitter stats
+- Automatic local set up (e.g. instal Docker, etc)
+- Automatic set up for a project (clone repo, install tools, run all the tests, etc)
+- Include help
+- Self update
+- Report new version exists
+- Use Yubikey for retrieving secrets
