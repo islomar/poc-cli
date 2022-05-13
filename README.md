@@ -22,6 +22,7 @@ Playground for experimenting with building CLI tools
   - Go binary
 - GitHub stats
 - Twitter stats
+- Check if all the needed tools for X are installed (bonus: and up to date)
 - Automatic local set up (e.g. instal Docker, etc)
 - Automatic set up for a project (clone repo, install tools, run all the tests, etc)
 - Include help
