@@ -19,7 +19,10 @@ Playground for experimenting with building CLI tools
 ## Ideas to implement (just for leaarning)
 - Distribute as 
   - Python package
+    - https://realpython.com/pypi-publish-python-package/
+    - https://acloudguru.com/hands-on-labs/building-a-command-line-tool-with-python
   - Go binary
+- Automate the publication with GitHub Actions
 - GitHub stats
 - Twitter stats
 - Check if all the needed tools for X are installed (bonus: and up to date)
