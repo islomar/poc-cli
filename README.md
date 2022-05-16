@@ -15,6 +15,12 @@ Playground for experimenting with building CLI tools
 - Anonymized CLI
   - TBD
 
+## Resources
+- Command-line interface description language
+  - http://docopt.org/
+  - https://github.com/docopt/docopts
+  - https://github.com/denisidoro/docpars
+  - https://github.com/CodelyTV/dotly/blob/main/scripts/core/documentation.sh
 
 ## Ideas to implement (just for leaarning)
 - Distribute as 
