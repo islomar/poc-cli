@@ -9,6 +9,8 @@ Playground for experimenting with building CLI tools
   - Features:
     - TBD
 - [AWS](https://docs.aws.amazon.com/cli/latest/)
+- [AWS SAM CLI](https://github.com/aws/aws-sam-cli)
+  - Python
 - [Google Cloud](https://cloud.google.com/sdk/gcloud)
 - [GitHub CLI](https://github.com/cli/cli)
   - Go
