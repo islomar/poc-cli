@@ -11,6 +11,7 @@ Playground for experimenting with building CLI tools
 - [AWS](https://docs.aws.amazon.com/cli/latest/)
 - [AWS SAM CLI](https://github.com/aws/aws-sam-cli)
   - Python
+  - [Click](https://click.palletsprojects.com/en/8.1.x/) for the command-line interface
 - [Google Cloud](https://cloud.google.com/sdk/gcloud)
 - [GitHub CLI](https://github.com/cli/cli)
   - Go
@@ -23,6 +24,8 @@ Playground for experimenting with building CLI tools
   - https://github.com/docopt/docopts
   - https://github.com/denisidoro/docpars
   - https://github.com/CodelyTV/dotly/blob/main/scripts/core/documentation.sh
+- https://click.palletsprojects.com/en/8.1.x/
+- [Click vs Argparse vs Docopt](https://click.palletsprojects.com/en/8.1.x/why/#why-not-docopt-etc)
 
 ## Ideas to implement (just for leaarning)
 - Distribute as 
