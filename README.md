@@ -26,6 +26,7 @@ Playground for experimenting with building CLI tools
   - https://github.com/CodelyTV/dotly/blob/main/scripts/core/documentation.sh
 - https://click.palletsprojects.com/en/8.1.x/
 - [Click vs Argparse vs Docopt](https://click.palletsprojects.com/en/8.1.x/why/#why-not-docopt-etc)
+- [Best practices for inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 
 ## Ideas to implement (just for leaarning)
 - Distribute as 
