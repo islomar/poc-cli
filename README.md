@@ -27,6 +27,7 @@ Playground for experimenting with building CLI tools
 - https://click.palletsprojects.com/en/8.1.x/
 - [Click vs Argparse vs Docopt](https://click.palletsprojects.com/en/8.1.x/why/#why-not-docopt-etc)
 - [Best practices for inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
+- [UX patterns for CLI tools](https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html)
 
 ## Ideas to implement (just for leaarning)
 - Distribute as 
