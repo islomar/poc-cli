@@ -36,6 +36,7 @@ Playground for experimenting with building CLI tools
     - https://acloudguru.com/hands-on-labs/building-a-command-line-tool-with-python
   - Go binary
 - Automate the publication with GitHub Actions
+- Jira issues older than N weeks/months
 - GitHub stats
 - Twitter stats
 - Check if all the needed tools for X are installed (bonus: and up to date)
