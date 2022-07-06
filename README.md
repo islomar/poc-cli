@@ -18,18 +18,30 @@ Playground for experimenting with building CLI tools
 - Anonymized CLI
   - TBD
 
-## Resources
-- Command-line interface description language
+
+## Options
+- **Argparse**
+  - The standard library
+- **Docopts**
   - http://docopt.org/
   - https://github.com/docopt/docopts
   - https://github.com/denisidoro/docpars
   - https://github.com/CodelyTV/dotly/blob/main/scripts/core/documentation.sh
-- https://click.palletsprojects.com/en/8.1.x/
+- **Click**
+  - https://click.palletsprojects.com/en/8.1.x/
+  - [Why Click?](https://click.palletsprojects.com/en/latest/why/)
+- **Invoke**
+  - a simple task running library that can be used to build a command-line application
+  - https://www.pyinvoke.org/
+
+## Resources
 - [Click vs Argparse vs Docopt](https://click.palletsprojects.com/en/8.1.x/why/#why-not-docopt-etc)
+- [Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 - [Best practices for inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 - [UX patterns for CLI tools](https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html)
 
-## Ideas to implement (just for leaarning)
+
+## Ideas to implement (just for learning)
 - Distribute as 
   - Python package
     - https://realpython.com/pypi-publish-python-package/
