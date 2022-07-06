@@ -9,11 +9,10 @@
 - Run `poetry run python src/main.py --help`
 
 ## With Docker
-- `docker build -t icli .`
-- `docker run --entrypoint=ls icli`
-- `docker run icli`
+- Prerequisite: being able to run `make`
+- Running `make` will show you all the possible actions
 
-## Decisions taken
+## Decisions taken and personal notes
 - Origin of the name: 
     - i(si) + cli
     - or the typical iAnything :-)
@@ -23,12 +22,14 @@
     - Looks like a "modern" way of creating a CLI in 2022
     - Used by AWS
 - Dependencies with [**poetry**](https://python-poetry.org/)
+    - `poetry show -v`
+    - `poetry env list`
 - The [ENTRYPOINT](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#entrypoint) is the execution of the main file.
 
 ## Resources
 - [Video tutorial: Building Command Line Applications with Click](https://www.youtube.com/watch?v=kNke39OZ2k0) - 18 minutes
 - [Click examples](https://click.palletsprojects.com/en/7.x/quickstart/#screencast-and-examples)
-- https://stackoverflow.com/questions/53835198/integrating-python-poetry-with-docker
+- https://github.com/CodiumTeam/docker-training
 
 ## TO DO
 - Run it locally with Docker

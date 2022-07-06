@@ -16,3 +16,6 @@ run: ## Dummy run with Batman
 .PHONY: cli-help
 cli-help: ## Show CLI help
 	docker run icli --help
+
+local-install: ## (it requires 'poetry' installed)
+	python -m pip install -e .

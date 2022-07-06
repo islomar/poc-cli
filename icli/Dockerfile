@@ -9,4 +9,4 @@ RUN poetry install
 
 COPY . .
 
-ENTRYPOINT [ "poetry", "run", "python", "/icli/src/main.py" ]
+ENTRYPOINT [ "poetry", "run", "python", "/icli/isi-cli/main.py" ]
