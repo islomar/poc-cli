@@ -19,3 +19,6 @@ cli-help: ## Show CLI help
 
 local-install: ## (it requires 'poetry' installed)
 	python -m pip install -e .
+
+publish: ## Publish in PyPI
+	poetry publish --build -u islomar
