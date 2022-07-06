@@ -30,8 +30,13 @@
 - [Video tutorial: Building Command Line Applications with Click](https://www.youtube.com/watch?v=kNke39OZ2k0) - 18 minutes
 - [Click examples](https://click.palletsprojects.com/en/7.x/quickstart/#screencast-and-examples)
 - https://github.com/CodiumTeam/docker-training
+- https://jackmckew.dev/packaging-python-packages-with-poetry.html
+    - https://github.com/JackMcKew/wordsum
 
 ## TO DO
-- Run it locally with Docker
-- Package it to be installed from pypi, e.g. `pip install icli`
+- Publish it to PyPI
+- Package it to be installed from PyPI, e.g. `pip install icli`
 - Make possible to run it 
+- Version it
+- Use mypy
+- Use black formatter

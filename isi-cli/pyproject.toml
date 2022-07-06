@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "isi-cli"
+version = "0.1.0"
+description = "General purpose CLI"
+readme = "README.md"
+authors = ["Isidro Lopez <islomar@gmail.com>"]
+keywords = ["cli", "PoC"]
+license = "MIT"
+packages = [
+    { include = "isi-cli" },
+    { include = "isi-cli/**/*.py" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^8.1.3"
+setuptools = "^63.1.0"
+wheel = "^0.37.1"
+
+[build-system]
+requires = ["poetry>=0.12"]  # PEP 508 specifications.
+build-backend = "poetry.masonry.api"
