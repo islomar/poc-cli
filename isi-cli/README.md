@@ -34,9 +34,11 @@
     - https://github.com/JackMcKew/wordsum
 
 ## TO DO
-- Publish it to PyPI
+- Rename to isis-cli
 - Package it to be installed from PyPI, e.g. `pip install icli`
 - Make possible to run it 
+- Integrate GitHub action for running tests
+- Integrate GitHub action for PyPI publication
 - Version it
 - Use mypy
 - Use black formatter
