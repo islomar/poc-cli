@@ -15,6 +15,8 @@ Playground for experimenting with building CLI tools
 - [Google Cloud](https://cloud.google.com/sdk/gcloud)
 - [GitHub CLI](https://github.com/cli/cli)
   - Go
+- [Slack CLI](https://slack.engineering/the-joy-of-internal-tools/)
+  - https://github.com/slackhq/magic-cli
 - Anonymized CLI
   - TBD
 
